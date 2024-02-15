@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/file_icon_generator/.gpm/base.json",
+    "gpm_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/file_icon_generator/.gpm",
+    "name": "libpy-file-icon-generator",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/libpy-file-icon-generator.git",
+    "root_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/file_icon_generator"
+}
